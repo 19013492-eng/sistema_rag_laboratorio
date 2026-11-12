@@ -8,7 +8,7 @@ Este proyecto implementa un sistema de **Generación Aumentada por Recuperación
 ## 1. Problema y Destinatario
 
 ### Delimitación del problema
-En laboratorios de metrología térmica y calibración, el personal técnico debe consultar frecuentemente documentación heterogénea: manuales de especificación en inglés, informes técnicos en español y cuadernos manuscritos de registro diario. La búsqueda manual entre estos formatos es lenta y propensa a la omisión de parámetros críticos, cotas de montaje o mediciones horarias de celdas.
+En laboratorios de metrología térmica y calibración, el personal técnico debe consultar frecuentemente documentación heterogénea: manuales de especificación en inglés, informes técnicos en español y cuadernos manuscritos de registro diario. La búsqueda manual entre estos formatos es lenta y propensa a la omisión de parámetros críticos, cotas de montaje o mediciones de extremo detalle.
 
 ### Alcance de consultas
 * **Qué preguntas PUEDE resolver:** Consultas técnicas sobre especificaciones operativas de instrumentos en inglés, mediciones experimentales y estabilidad de celdas en bitácoras manuscritas (celda 2PTB83, sensor TRP 30, ciclos de medición y cotas dimensionales), y rangos de calibración o mantenimiento predictivo por termografía en español (-60 °C a 1100 °C).
