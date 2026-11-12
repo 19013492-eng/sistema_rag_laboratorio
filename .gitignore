@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Base de datos vectorial (se reconstruye con indexar_corpus.py)
+chroma_db_laboratorio/
+
+# Archivos de configuración sensible y variables de entorno
+.env
+*.env
+
+# Caché y compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de entornos y editores (opcional pero recomendado)
+.vscode/
+.idea/
+.ipynb_checkpoints/

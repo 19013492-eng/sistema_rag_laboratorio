@@ -1,0 +1,47 @@
+--- Bitácora Manuscrita de Laboratorio (Página 1) ---
+24 Agosto 20
+Se construyeron bujes de Al para la TRP 30 en la celda 2PTB83 / 3PTB83.
+13:30 Se prepara la celda 2PTB83 para medir en ella. Agua a los  22,7 °C. Termómetros patrones (Guildline) 23.0040 °C. Centro termómetro al nivel de agua EXTERNO: 20 cm ± 0,5 cm.
+14:25 Se inicia prueba para optimizar el puente respecto a la posición de 2PTB83. La configuración actual del programa parece perfecta.
+14:50 Se comienza a preparar la celda doble en el termo con aislación térmica fabricada con cinta de enmascarar.
+15:10 Se fundió hielo en las terminaciones para poder ver el bloque. Se fundió y se agregó agua.
+
+--- Bitácora Manuscrita de Laboratorio (Página 2) ---
+15:15 GAN=5x10^4 BAR=0. Termómetro se colocó en la celda doble. Recién empezó a balancear bien pero viene bajando.
+15:35 Durante el primer ciclo (en la 2PTB83) no se registró con las corrientes. Celda Doble comienza a medirse en manual. G=5x10^4 GAR=0 Impedancia=100 ohm.
+16:30 Después de observar la celda doble (el nivel del punto triple estaba exactamente en la parte superior del sensor de la TRP 30) y el bloque superior de hielo giraba. El inferior no podía verse, pero por lógica no debe haberse solidificado.
+2sqrt(2): 2.81174 | 2: 1.98889 | 1sqrt(2): 1.40703 | 1: 0.99419
+
+--- Bitácora Manuscrita de Laboratorio (Página 3) ---
+17:05 Se inició otro ciclo con la celda doble. 2PTB83.
+18:10 Registro celda 2PTB83: 2sqrt(2): 2.81174 | 2: 1.98891 | 1sqrt(2): 1.40702 | 1: 0.99420
+18:45 Al finalizar se verificó la empaquetadura de hielo exterior (bastante duro y compactado) y que los dos bloques de hielo se movían bien antes de empezar.
+19:25 Celda 2PTB83: 2sqrt(2): 2.81174 | 2: 1.98888 | 1sqrt(2): 1.40702 | 1: 0.99417
+
+--- Bitácora Manuscrita de Laboratorio (Página 4) ---
+25 Agosto 20
+10:02 Se inicia la preparación de la 2PTB83 para seguir midiendo. Se empaquetó el termo rotatorio con la aislación de cinta de enmascarar.
+10:22 Se colocó la TRP 30 en la 2PTB83. Thermo resistors patrones 23.0005 °C. 2PTB83: 2sqrt(2): 2.81169 | 2: 1.98887
+10:40 Se inicia la preparación de la 3PTB83. El hielo flota en la celda 3PTB83.
+11:00 Otro ciclo 2do: 2sqrt(2): 2.81168 | 2: 1.98886 | 1sqrt(2): 1.40703 | 1: 0.99418
+
+--- Bitácora Manuscrita de Laboratorio (Página 5) ---
+11:35 Servicio hacia abajo (normal) 3PTB83. 2sqrt(2): 2.81170 | 2: 1.98888 | 1sqrt(2): 1.40703 | 1: 0.99417
+12:05 Se invierte (invertida) (Algo pasó) 3PTB83. 2sqrt(2): 2.81170 | 2: 1.98889
+12:40 Se pone normal 3PTB83.
+13:15 Se desarma la celda 3PTB83. Tal vez solo se mojó el cable. O.K. Se vuelve a calibrar la 2PTB83 en 2sqrt(2): 2.81173. La 3PTB83 está aparentemente bien.
+
+--- Bitácora Manuscrita de Laboratorio (Página 6) ---
+26 Agosto 20 (Tamb 21°C, 50% humedad)
+08:40 Se inicia la empaquetadura del termo con aislación (papel de enmascarar). Temperatura sensores resistores 23.0015 °C.
+09:20 Se terminó de preparar la 2PTB83. El sensor de la TRP30 está 20 cm bajo el nivel de agua exterior. Archivo 00831 wt.dat.
+09:40 Celda 2PTB83: 2sqrt(2): 2.81191 | 2: 1.98895 | 1: 0.99423 | 1sqrt(2): 1.40709
+09:55 Hay más agua fundida que anteriormente. Invertido el nivel de agua externo está justo en el medio del sensor.
+10:05 Celda 2PTB83 (2do pasada): 2sqrt(2): 2.81190 | 2: 1.98893 | 1sqrt(2): 1.40710
+
+--- Bitácora Manuscrita de Laboratorio (Página 7) ---
+10:30 Se inician las maniobras preparando la celda 3PTB83.
+10:40 Posición normal celda 3PTB83. 2sqrt(2): 2.81185 | 2: 1.98901 | 1: 0.99424 | 1sqrt(2): 1.40710. ¿El último valor se estabilizó muy alto?
+11:09 Se inicia la primera rotación hacia arriba 3PTB83.
+11:35 3PTB83: 2sqrt(2): 2.81190 | 2: 1.98896 | 1sqrt(2): 1.40700
+12:00 Segunda rotación (hacia arriba) 3PTB83: 2sqrt(2): 2.81185 | 2: 1.98098 | 1sqrt(2): 1.40713
